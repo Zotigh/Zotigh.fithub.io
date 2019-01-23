@@ -1,5 +1,5 @@
 # Lance Zotigh
 ## title
 
-*[Linkdin](URL)
-*[GitHub](URL)
+* [Linkdin](URL)
+* [GitHub](URL)
